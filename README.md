@@ -28,8 +28,7 @@ Some of the criteria that should be in this project:
 # Image Processing
 - Data of the images used are seen in the following example:
 ![Alt text](img/paper.jpg?raw=true "Paper Images")
-- Input parameters used the one from the Dicoding Module: 
-- https://www.dicoding.com/academies/184/tutorials/8527
+- Input parameters used the one from the Dicoding Module: https://www.dicoding.com/academies/184/tutorials/8527
 - We do the train-test split (train-validation) in 60:40 proportion using the parameter "validation_split" of 0.4
 
 # Notes
